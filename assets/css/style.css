@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background: black;
+    color: #fff;
+}
+
+
+.card-body {
+    background-color: turquoise;
+    
+}
+
+.contacto {
+    background-color: white;
+
+}
